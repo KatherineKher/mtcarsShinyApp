@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598638606964.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2844861801",
+    "id" : "F72338D2",
+    "lastKnownWriteTime" : 1598638860,
+    "last_content_update" : 1598638860856,
+    "path" : "C:/Users/kathe/Desktop/Coursera - NTL/09 Developing Data Products/Week 04/Shiny Application/mtcarsShinyPresentation1.Rpres",
+    "project_path" : "mtcarsShinyPresentation1.Rpres",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_presentation"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598027312815.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "19|36|22|4|\n56|36|58|4|\n61|25|68|4|\n81|33|87|4|\n89|35|95|4|\n97|33|100|4|\n",
+    "hash" : "2660822202",
+    "id" : "F4F7739C",
+    "lastKnownWriteTime" : 1598637042,
+    "last_content_update" : 1598638053868,
+    "path" : "C:/Users/kathe/Desktop/Coursera - NTL/09 Developing Data Products/Week 04/Shiny Application/LoanShinyApp/server.R",
+    "project_path" : "LoanShinyApp/server.R",
+    "properties" : {
+        "cursorPosition" : "26,8",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

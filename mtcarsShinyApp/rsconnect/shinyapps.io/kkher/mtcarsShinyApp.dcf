@@ -1,0 +1,12 @@
+name: mtcarsShinyApp
+title: mtcarsShinyApp
+username:
+account: kkher
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2720538
+bundleId: 3567996
+url: https://kkher.shinyapps.io/mtcarsShinyApp/
+when: 1598637409.33392
+asMultiple: FALSE
+asStatic: FALSE
